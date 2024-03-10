@@ -39,5 +39,3 @@ will be shared
 
 ### When is the return?
 tbd
-# hiking
-# hiking
